@@ -37,7 +37,7 @@ function displayGyphy() {
             celebsDiv.append(celebs)
             $("#images").append(celebsDiv);
         }
-    });
+    });  
 };
 
 $(document).on("click", ".gif", function () {
